@@ -5,7 +5,12 @@
 
 Predicting if an email is a spam or not. Spam refers to unsolicited and often irrelevant or inappropriate messages sent in bulk through various communication channels, such as email, text messages, social media, and online forums.
 
-## Expected Outcome : 
+## Skills/Tools Used:
+
+1. Python Programming Language
+2. Machine Learning - Multinomial Naive Bayes supervised model
+    
+## Outcome : 
 
 1. **Enhancing User Experience:** Helps users focus on genuine and relevant messages, thereby improving their overall experience and productivity. 
 
